@@ -26,7 +26,8 @@ Here are screenshots of the of the woking application
  <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" />
   <img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="rich editor" width="534" height="300" />
 
- <br/>
+ <br/> 
+ <br/> 
   <img alt="mobile mockup" src="https://i.ibb.co/h7f989W/Screenshot-438.png" width="200" height="356"/> &emsp;
   <img alt="mobile mockup 2" src="https://i.ibb.co/HqJCvq8/Screenshot-439.png" height="356" width="200" />
   <br/>
