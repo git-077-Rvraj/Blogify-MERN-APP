@@ -98,7 +98,7 @@ The choice to make the comment section anonymous was a deliberate design choice,
 Any more suggestions are always welcome.
 
 ## Author
--    My website : [My website](https://git-077-rvraj.github.io/Ravi/final.html)
+-    My website : [My website](https://git-077-rvraj.github.io/Ravi/)
 -    Github : [@git-077-Rvraj]
 -    Linkedin : [Ravi Raj](https://www.linkedin.com/in/ravi-raj-765bba1b7/)
 -    Email : rvraj.0777@gmail.com
