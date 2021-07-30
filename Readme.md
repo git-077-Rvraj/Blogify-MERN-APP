@@ -22,7 +22,9 @@ Here are screenshots of the of the woking application
 <p align="center">
 
  <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" />
+ <br/> 
  <img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="home page" width="534" height="300" />
+  <br/> 
  <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" />
   <img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="rich editor" width="534" height="300" />
 
