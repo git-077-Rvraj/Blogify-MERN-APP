@@ -1,0 +1,11 @@
+{
+    "name": "Blogify PWA",
+    "short_name": "Blogify",
+   
+    "orientation": "portrait",
+    "description": "Blogging application built using the MERN stack by Ravi",
+    "theme_color": "#07a0ff",
+    "background_color": "#114c70",
+    "display": "standalone",
+    "start_url": "/"
+}
