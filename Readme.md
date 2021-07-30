@@ -20,7 +20,7 @@ You can obtain the MONGO_URI after create a collectoin on [mongodb atlas](https:
 Here are screenshots of the of the woking application
 
 <p align="center">
-    <div align="center> landing</div>
+<!--     <div align="center> landing</div> -->
  <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" />
 <!--     <span align="center">Landing page</span> -->
  <br/> 
