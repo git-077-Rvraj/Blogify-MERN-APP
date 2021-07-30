@@ -21,7 +21,6 @@ Here are screenshots of the of the woking application
 
 <p align="center">
 
-<<<<<<< HEAD
  <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" />
  <img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="home page" width="534" height="300" />
  <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" />
@@ -32,7 +31,6 @@ Here are screenshots of the of the woking application
   <img alt="mobile mockup 2" src="https://i.ibb.co/HqJCvq8/Screenshot-439.png" height="356" width="200" />
   <br/>
     
-=======
   <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" /> 
  <img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="home page" width="534" height="300" />
  <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" /> 
