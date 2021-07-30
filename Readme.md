@@ -6,9 +6,9 @@ A Full-stack blog application implemented in MERN Stack with User authentication
 
 -   Fork this repo and run the `git clone <forked repo>` command from your terminal/bash
 -   Cd into the directories and `npm install`
--   Create a `.env` file in the root directory and store the following:
-    -   MONGO_URI=Insert the correct connection URL for your MongoDB database
-    -   REACT_APP_GOOGLE_CLIENT_ID=Insert the valid google client id
+-   Create a `.env` file in the root directory and another .env file inside frontend directory and store the following:
+    -   MONGO_URI=Insert the correct connection URL for your MongoDB database (in .env inside root directory)
+    -   REACT_APP_GOOGLE_CLIENT_ID=Insert the valid google client id (in .env inside frontend directory)
 
 -   Run the server on PORT 5000
 -   npm start/yarn start
