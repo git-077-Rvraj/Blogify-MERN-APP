@@ -1,7 +1,6 @@
 import React from "react";
 import axios from "axios";
 import dotenv from "dotenv";
-
 import GoogleLogin from "react-google-login";
 
 dotenv.config();
@@ -74,7 +73,8 @@ class Login extends React.Component {
                     <hr className="gold-hr" />
                     <div className="google">
                         <GoogleLogin
-                            clientId={process.env.CLIENTID||"700090115249-lcjkf4pq37jhc86v3ab59md945l9o0lu.apps.googleusercontent.com"}
+                            clientId={process.env.REACT_APP_CLIENT_ID}
+
                             buttonText="Log in With Google"
                             onSuccess={this.successGoogleLogin}
                             onFailure={this.failureGoogleLogin}
